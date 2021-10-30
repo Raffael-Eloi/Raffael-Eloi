@@ -3,7 +3,7 @@
 📈 Apaixonado por tecnologia e pela área de desenvolvimento <br>
 📈 Faço parte daquele time que adora tranformar café  em código ☕ = 💻<br>
 📈 Estou aprendendo as tecnologias frontend e pretendo ter uma base sólida nas tecnologias backend também <br>
-📈 Atualmente não possuo repositórios muito avançados, mas em breve terei, então já aproveita e oportunidade e me segue aí, uma nova conexão sempre é sempre bem vinda 🤝 
+📈 Atualmente não possuo repositórios muito avançados, mas em breve terei, então já aproveita a oportunidade e me segue aí, uma nova conexão sempre é sempre bem vinda 🤝 
 
 ![gif_readme](https://user-images.githubusercontent.com/51720161/139523034-f7da3b43-4ee3-411d-9b1e-d6d2c7786f1e.gif)
 
