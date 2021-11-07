@@ -17,13 +17,13 @@
 
 ### Minhas redes
 <div>
-  <a href="mailto:raffaeleloi121@gmail.com" target="_blank" style="text-decoration:none;">
+  <a href="mailto:raffaeleloi121@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/raffael-eloi/" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/raffael-eloi/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.instagram.com/raffa_eloi/" target="_blank" style="text-decoration:none;">
+  <a href="https://www.instagram.com/raffa_eloi/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
 </div>
