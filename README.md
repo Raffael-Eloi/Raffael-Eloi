@@ -1,13 +1,11 @@
-## Olá, me chamo Raffael Eloi
+## Hello, my name is Raffael
 
-📈 Apaixonado por tecnologia e pela área de desenvolvimento <br>
-📈 Faço parte daquele time que adora tranformar café  em código ☕ = 💻<br>
-📈 Estou aprendendo as tecnologias frontend e pretendo ter uma base sólida nas tecnologias backend também <br>
-📈 Atualmente não possuo repositórios muito avançados, mas em breve terei, então já aproveita a oportunidade e me segue aí, uma nova conexão sempre é sempre bem vinda 🤝 
+📈 I'm passionate for technology and software development <br>
+📈 I'm on the team that turns coffee into code ☕ = 💻<br>
 
 ![gif_readme](https://user-images.githubusercontent.com/51720161/139523034-f7da3b43-4ee3-411d-9b1e-d6d2c7786f1e.gif)
 
-### Ferramentas e linguagens sendo estudadas no momento
+### Tools, languages and frameworks/libraries that I'm studying at the moment
 <div>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -15,7 +13,7 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </div>
 
-### Minhas redes
+### My social medias (I usually don't use the instagram)
 <div>
   <a href="mailto:raffaeleloi121@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
