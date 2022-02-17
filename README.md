@@ -1,5 +1,6 @@
 ## Hello, my name is Raffael
 
+📈 I’m currently working as a full stack developer at Rehagro <br>
 📈 I'm passionate for technology and software development <br>
 📈 I'm on the team that turns coffee into code ☕ = 💻<br>
 
@@ -13,7 +14,7 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </div>
 
-### My social medias (I usually don't use the instagram)
+### My social medias (I don't use the instagram)
 <div>
   <a href="mailto:raffaeleloi121@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
