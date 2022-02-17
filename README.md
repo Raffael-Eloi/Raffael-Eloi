@@ -12,17 +12,16 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 </div>
 
-### My social medias (I don't use the instagram)
+### My social medias
 <div>
   <a href="mailto:raffaeleloi121@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
   </a>
   <a href="https://www.linkedin.com/in/raffael-eloi/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.instagram.com/raffa_eloi/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
 </div>
