@@ -1,4 +1,4 @@
-## Hello, my name is Raffael
+## Hello, I'm Raffael
 
 📈 I’m currently working as a full stack developer at Rehagro <br>
 📈 I'm passionate for technology and software development <br>
