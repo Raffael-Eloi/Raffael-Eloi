@@ -12,6 +12,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
   <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 </div>
