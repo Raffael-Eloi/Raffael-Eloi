@@ -1,6 +1,6 @@
 ## Hello, I'm Raffael
 
-📈 I’m currently working as a full stack developer at Rehagro <br>
+📈 I’m currently working as a Full Stack Web Developer <br>
 📈 I'm passionate for technology and software development <br>
 📈 I'm on the team that turns coffee into code ☕ = 💻<br>
 
