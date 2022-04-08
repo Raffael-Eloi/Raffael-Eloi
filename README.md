@@ -6,7 +6,7 @@
 
 ![gif_readme](https://user-images.githubusercontent.com/51720161/139523034-f7da3b43-4ee3-411d-9b1e-d6d2c7786f1e.gif)
 
-### Tools, languages and frameworks/libraries that I'm studying/working at the moment
+### What I'm studying or working at the moment
 <div>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
