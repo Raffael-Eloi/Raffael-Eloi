@@ -1,7 +1,7 @@
 ## Hello, I'm Raffael
 
-📈 I’m currently working as a Full Stack Web Developer <br>
-📈 I'm passionate for technology and software development <br>
+📈 Full Stack Web Developer <br>
+📈 Passionate for technology and software development <br>
 📈 I'm on the team that turns coffee into code ☕ = 💻<br>
 
 ![gif_readme](https://user-images.githubusercontent.com/51720161/139523034-f7da3b43-4ee3-411d-9b1e-d6d2c7786f1e.gif)
