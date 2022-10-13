@@ -1,6 +1,8 @@
 ## Hello, I'm Raffael
 
+📈 Software Engineer <br>
 📈 Full Stack Web Developer <br>
+📈 Bachelor's Degrees In Computer Science (in progress) <br>
 📈 Passionate for technology and software development <br>
 📈 I'm on the team that turns coffee into code ☕ = 💻<br>
 
