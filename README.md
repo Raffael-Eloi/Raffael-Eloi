@@ -1,10 +1,8 @@
 ## Hello, I'm Raffael
 
-![](https://komarev.com/ghpvc/?username=Raffael-Eloi&label=Profile+views)
-
 📈 Software Engineer <br>
-📈 Full Stack Web Developer <br>
-📈 Bachelor's Degrees In Computer Science (in progress) <br>
+📈 Bachelor's Degrees In Computer Science <br>
+📈 Specialized in Software Architecture (in progress) <br> 
 📈 Passionate for technology and software development <br>
 📈 I'm on the team that turns coffee into code ☕ = 💻<br>
 
