@@ -1,10 +1,10 @@
-## Hello, I'm Raffael
+👋 Hello there! I'm Raffael Eloi, a computer science enthusiast with a bachelor's degree and a relentless passion for both coffee and the ever-evolving technology world. ☕🖥️
 
-📈 Software Engineer <br>
-📈 Bachelor's Degrees In Computer Science <br>
-📈 Specialized in Software Architecture (in progress) <br> 
-📈 Passionate for technology and software development <br>
-📈 I'm on the team that turns coffee into code ☕ = 💻<br>
+🎓 Currently, I'm on an exciting journey of postgraduation, specializing in software architecture. My heart beats for topics like Domain-Driven Design (DDD), Microservices, Modular Monoliths, Monoliths (yes, they still matter), SOLID principles, clean code, and weaving beautiful design patterns into the fabric of software development.
+
+💡 I believe in the magic of turning caffeine into code, and my GitHub is where I showcase my digital craftsmanship. Join me as I explore the fascinating intersection of coffee and code, one commit at a time!
+
+🚀 Let's collaborate, innovate, and have a brew-tiful time in the world of tech. Connect with me, and let's brew up some software wizardry together! ☕💻
 
 ![gif_readme](https://user-images.githubusercontent.com/51720161/139523034-f7da3b43-4ee3-411d-9b1e-d6d2c7786f1e.gif)
 
@@ -26,24 +26,6 @@
   <img alt="C# logo" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt=".NET logo" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
-
-+ Database
-<div>
-  <img alt="MySQL logo" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="PostGres logo" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
-
-+ Tools, Version Controll and others
-<div>
-  <img alt="Git logo" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Markdown logo" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-</div>
-
-+ IDE and IDLE
-<div>
-  <img alt="Visual Studio logo" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  <img alt="Visual Studio Code logo" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
- </div>
 
 ### My social medias
 <div>
