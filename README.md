@@ -2,7 +2,7 @@
 
 🎓 Currently, I'm on an exciting journey of postgraduation, specializing in software architecture. My heart beats for topics like Domain-Driven Design (DDD), Microservices, Modular Monoliths, Monoliths (yes, they still matter), SOLID principles, clean code, design patterns, Test-Driven Development (TDD), Behavior-Driven Development (BDD), Agile practices (especially Extreme Programming - XP), and all things software architecture.
 
-💡 I believe in the magic of turning caffeine into code, and my GitHub is where I showcase my digital craftsmanship. Join me as I explore the fascinating intersection of coffee and code, one commit at a time!
+💼 As a software engineer, I've had the privilege of working on cutting-edge projects and collaborating with amazing teams. My GitHub is where I showcase my digital craftsmanship and share my insights into the world of software development.
 
 🚀 Let's collaborate, innovate, and have a brew-tiful time in the world of tech, all while following the best practices of TDD, BDD, XP, and software architecture. Connect with me, and let's brew up some software wizardry together! ☕💻
 
