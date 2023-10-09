@@ -4,6 +4,8 @@
 
 💼 As a software engineer, I've had the privilege of working on cutting-edge projects and collaborating with amazing teams. My GitHub is where I showcase my digital craftsmanship and share my insights into the world of software development.
 
+✍️ I write some articles on [dev.to](https://dev.to/raffaeleloi) in english and also in portuguese in [TabNews](https://www.tabnews.com.br/raffaeleloi).
+
 🚀 Let's collaborate, innovate, and have a brew-tiful time in the world of tech, all while following the best practices of TDD, BDD, XP, and software architecture. Connect with me, and let's brew up some software wizardry together! ☕💻
 
 ![gif_readme](https://user-images.githubusercontent.com/51720161/139523034-f7da3b43-4ee3-411d-9b1e-d6d2c7786f1e.gif)
