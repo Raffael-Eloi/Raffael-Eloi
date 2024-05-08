@@ -1,6 +1,6 @@
 👋 Hello there! I'm Raffael Eloi, a computer science enthusiast with a bachelor's degree and a relentless passion for both coffee and the ever-evolving technology world. ☕🖥️
 
-🎓 Currently, I'm on an exciting journey of postgraduation, specializing in software architecture. My heart beats for topics like Domain-Driven Design (DDD), Microservices, Modular Monoliths, Monoliths (yes, they still matter), SOLID principles, clean code, design patterns, Test-Driven Development (TDD), Behavior-Driven Development (BDD), Agile practices (especially Extreme Programming - XP), and all things software architecture.
+🎓 Currently, I'm on an exciting journey of postgraduation, specializing in software architecture. My heart beats for topics like Domain-Driven Design (DDD), Microservices, Modular Monoliths, Monoliths, SOLID principles, clean code, design patterns, Test-Driven Development (TDD), Behavior-Driven Development (BDD), Agile practices (especially Extreme Programming - XP), and all things software architecture.
 
 💼 As a software engineer, I've had the privilege of working on cutting-edge projects and collaborating with amazing teams. My GitHub is where I showcase my digital craftsmanship and share my insights into the world of software development.
 
