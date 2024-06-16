@@ -10,6 +10,17 @@
 
 ![gif_readme](https://user-images.githubusercontent.com/51720161/139523034-f7da3b43-4ee3-411d-9b1e-d6d2c7786f1e.gif)
 
+🎯 My focus nowadays is to improve my levels in:
+- TDD
+- BDD
+- SOLID principle
+- Kubernetes
+- CI-CD
+- Serverless
+- Terraform
+- .NET 
+
+
 ### My social medias
 <div>
   <a href="mailto:raffaeleloi121@gmail.com" target="_blank">
