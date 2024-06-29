@@ -1,5 +1,7 @@
 👋 Hello there! I'm Raffael Eloi, a computer science enthusiast with a bachelor's degree and a relentless passion for both coffee and the ever-evolving technology world. ☕🖥️
 
+![gif_readme](https://user-images.githubusercontent.com/51720161/139523034-f7da3b43-4ee3-411d-9b1e-d6d2c7786f1e.gif)
+
 🎓 Currently, I'm on an exciting journey of postgraduation, specializing in software architecture. My heart beats for topics like Domain-Driven Design (DDD), Microservices, Modular Monoliths, Monoliths, SOLID principles, clean code, design patterns, Test-Driven Development (TDD), Behavior-Driven Development (BDD), Agile practices (especially Extreme Programming - XP), and all things software architecture.
 
 💼 As a software engineer, I've had the privilege of working on cutting-edge projects and collaborating with amazing teams. My GitHub is where I showcase my digital craftsmanship and share my insights into the world of software development.
@@ -8,7 +10,9 @@
 
 🚀 Let's collaborate, innovate, and have a brew-tiful time in the world of tech, all while following the best practices of TDD, BDD, XP, and software architecture. Connect with me, and let's brew up some software wizardry together! ☕💻
 
-![gif_readme](https://user-images.githubusercontent.com/51720161/139523034-f7da3b43-4ee3-411d-9b1e-d6d2c7786f1e.gif)
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=Raffael-Eloi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 🎯 My focus nowadays is to improve my levels in:
 - TDD
