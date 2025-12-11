@@ -1,36 +1,42 @@
-👋 Hello there! I'm Raffael Eloi, a computer science enthusiast with a bachelor's degree and a relentless passion for both coffee and the ever-evolving technology world. ☕🖥️
+🚀 About Me
 
-![gif_readme](https://user-images.githubusercontent.com/51720161/139523034-f7da3b43-4ee3-411d-9b1e-d6d2c7786f1e.gif)
+Hi! I’m Raffael Eloi, a Software Engineer and Software Architect (MSc) from Belo Horizonte, Brazil.
 
-🎓 Currently, I'm on an exciting journey of postgraduation, specializing in software architecture. My heart beats for topics like Domain-Driven Design (DDD), Microservices, Modular Monoliths, Monoliths, SOLID principles, clean code, design patterns, Test-Driven Development (TDD), Behavior-Driven Development (BDD), Agile practices (especially Extreme Programming - XP), and all things software architecture.
+I love building systems that are not only functional, but scalable, maintainable, and enjoyable to work on. I care a lot about clean code, SOLID principles, DDD, and modern architecture approaches like microservices, modular monoliths, and serverless.
 
-💼 As a software engineer, I've had the privilege of working on cutting-edge projects and collaborating with amazing teams. My GitHub is where I showcase my digital craftsmanship and share my insights into the world of software development.
+With a background in Computer Science and a Master’s in Software Architecture, I enjoy connecting theory to real-world engineering — designing solutions that hold up as systems grow and evolve.
 
-✍️ I write some articles on [dev.to](https://dev.to/raffaeleloi) and [medium](https://medium.com/@raffaeleloi) in english and also in portuguese in [TabNews](https://www.tabnews.com.br/raffaeleloi).
+📚 What I Do
 
-🚀 Let's collaborate, innovate, and have a brew-tiful time in the world of tech, all while following the best practices of TDD, BDD, XP, and software architecture. Connect with me, and let's brew up some software wizardry together! ☕💻
+Build backend systems with .NET / C#, and occasionally TypeScript when the project calls for it.
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=Raffael-Eloi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+Design APIs (REST, serverless), event flows, and data-processing pipelines.
 
-🎯 My focus nowadays is to improve my levels in:
-- TDD
-- BDD
-- SOLID principle
-- Kubernetes
-- CI-CD
-- Serverless
-- Terraform
-- .NET 
+Create infrastructure through code — Terraform, CI/CD, automation, and cloud-native setups.
 
+Work with TDD and BDD because I believe reliable software should be the default, not an afterthought
+.
+Explore DevOps practices, Kubernetes, microservices patterns, and everything that helps software scale smoothly.
 
-### My social medias
-<div>
-  <a href="mailto:raffaeleloi121@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/raffael-eloi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+Write about software architecture, clean code, and real dev challenges — both in English and Portuguese.
+
+🔧 Tech & Tools I Use Often 
+
+C# / .NET · TypeScript · Terraform · Azure · Serverless · Kubernetes · REST / APIs · Design Patterns · SOLID · DDD · TDD / BDD · CI/CD · Clean Architecture · Microservices / Modular Monolith
+
+📂 What You’ll Find Here
+
+My GitHub is a mix of personal, professional, and academic projects, including:
+Backend services and API designs
+Infrastructure-as-code projects and automated pipelines
+Experiments with architecture, cloud technologies, and system design
+My personal portfolio and things I’m currently learning or trying out
+If something catches your eye, feel free to explore, star, or reach out — I'm always open to collaborations and conversations.
+
+🤝 Let’s Connect
+
+If you want to talk about architecture, engineering practices, side projects, or anything tech-related:
+
+LinkedIn: https://linkedin.com/in/raffael-eloi
+
+E-mail / Contact: Available on my GitHub profile
