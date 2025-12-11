@@ -1,21 +1,23 @@
 🚀 About Me
 
-Hi! I’m Raffael Eloi, a Software Engineer and Software Architect (MSc) from Belo Horizonte, Brazil.
+Hi! I’m Raffael Eloi, a Software Engineer and Software Architect (MSc) from Minas Gerais, Brazil.
 
-I love building systems that are not only functional, but scalable, maintainable, and enjoyable to work on. I care a lot about clean code, SOLID principles, DDD, and modern architecture approaches like microservices, modular monoliths, and serverless.
+I love building systems that are not only functional, but scalable, maintainable, and enjoyable to work on. 
+
+I care a lot about clean code, SOLID principles, DDD, and architecture approaches like microservices, modular monoliths, and serverless.
 
 With a background in Computer Science and a Master’s in Software Architecture, I enjoy connecting theory to real-world engineering — designing solutions that hold up as systems grow and evolve.
 
 📚 What I Do
 
-Build backend systems with .NET / C#, and occasionally TypeScript when the project calls for it.
+Build backend and frontend systems.
 
-Design APIs (REST, serverless), event flows, and data-processing pipelines.
+Design APIs (REST, serverless) and pipelines.
 
 Create infrastructure through code — Terraform, CI/CD, automation, and cloud-native setups.
 
-Work with TDD and BDD because I believe reliable software should be the default, not an afterthought
-.
+Work with TDD and BDD because I believe in the practice and it's how I like to build software.
+
 Explore DevOps practices, Kubernetes, microservices patterns, and everything that helps software scale smoothly.
 
 Write about software architecture, clean code, and real dev challenges — both in English and Portuguese.
@@ -27,10 +29,11 @@ C# / .NET · TypeScript · Terraform · Azure · Serverless · Kubernetes · RES
 📂 What You’ll Find Here
 
 My GitHub is a mix of personal, professional, and academic projects, including:
-Backend services and API designs
-Infrastructure-as-code projects and automated pipelines
-Experiments with architecture, cloud technologies, and system design
-My personal portfolio and things I’m currently learning or trying out
+- Frontend services
+- Backend services and API designs
+- Infrastructure-as-code projects and automated pipelines
+- Experiments with architecture, cloud technologies, and system design
+
 If something catches your eye, feel free to explore, star, or reach out — I'm always open to collaborations and conversations.
 
 🤝 Let’s Connect
@@ -38,5 +41,3 @@ If something catches your eye, feel free to explore, star, or reach out — I'm 
 If you want to talk about architecture, engineering practices, side projects, or anything tech-related:
 
 LinkedIn: https://linkedin.com/in/raffael-eloi
-
-E-mail / Contact: Available on my GitHub profile
