@@ -38,9 +38,9 @@ If something catches your eye, feel free to explore, star, or reach out — I'm 
 
 🌱 Off the keyboard
 
-Outside of coding, I enjoy **reading**, spending time **disconnected from social media** (I don’t use it), and continuously **studying and reflecting on software engineering and architecture**.
+Outside of coding, I enjoy reading, spending time disconnected from social media (I don’t use it), and continuously studying and reflecting on software engineering and architecture.
 
-I value moments of **quiet and connection with nature**, which often inspire me to **write and share thoughts** about technology, learning, and the craft of software development.
+I value moments of quiet and connection with nature, which often inspire me to write and share thoughts about technology, learning, and the craft of software development.
 
 You can find some of my writings here:
 
