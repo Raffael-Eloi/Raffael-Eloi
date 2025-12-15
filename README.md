@@ -6,7 +6,7 @@ I love building systems that are not only functional, but scalable, maintainable
 
 I care a lot about clean code, SOLID principles, DDD, and architecture approaches like microservices, modular monoliths, and serverless.
 
-With a background in Computer Science and a Master’s in Software Architecture, I enjoy connecting theory to real-world engineering — designing solutions that hold up as systems grow and evolve.
+With a background in Computer Science and a postgraduation specialization in Software Architecture, I enjoy connecting theory to real-world engineering — designing solutions that hold up as systems grow and evolve.
 
 📚 What I Do
 
