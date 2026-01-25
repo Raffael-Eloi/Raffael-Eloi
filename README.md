@@ -1,6 +1,6 @@
 🚀 About Me
 
-Hi! I’m Raffael Eloi, a Software Engineer and Software Architect from Minas Gerais, Brazil.
+Hi! I’m [Raffael Eloi](https://raffaeleloi.dev), a Software Engineer and Software Architect from Minas Gerais, Brazil.
 
 I love building systems that are not only functional, but scalable, maintainable, and enjoyable to work on. 
 
